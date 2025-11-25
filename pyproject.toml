@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "promptrefiner"
+version = "0.1.0"
+description = "AI Prompt Refiner CLI – polish any rough idea into multiple prompt styles."
+authors = ["Prompt Refiner Team <maintainers@promptrefiner.dev>"]
+readme = "README.md"
+packages = [{ include = "promptrefiner", from = "src" }]
+license = "MIT"
+homepage = "https://github.com/oss/prompt-refiner-cli"
+keywords = ["prompt", "cli", "openai", "ai", "productivity"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+click = "^8.1.7"
+rich = "^13.7.1"
+openai = "^1.47.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.0"
+
+[tool.poetry.scripts]
+promptref = "promptrefiner.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[build-system]
+requires = ["poetry-core>=1.8.0"]
+build-backend = "poetry.core.masonry.api"
