@@ -142,8 +142,8 @@ If this repo saved you time or sparked an idea, consider buying me a coffee to k
 
 Your support and feedback are valuable in maintaining and improving the extension.
 
-![Buy Me a Coffee](img/bmc.png)
-![Buy Me a Coffee QR](img/bmc-qr-code.png)
+[![Buy Me a Coffee](img/bmc.png)](https://buymeacoffee.com/connectankush)
+[![Buy Me a Coffee QR](img/bmc-qr-code.png)](https://buymeacoffee.com/connectankush)
 
 
 
