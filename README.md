@@ -134,6 +134,19 @@ pytest
 
 We love docs and creative prompt presets—send them!
 
+## Support the Project
+
+If this repo saved you time or sparked an idea, consider buying me a coffee to keep the prompts flowing. ❤️ 
+
+[https://buymeacoffee.com/connectankush](https://buymeacoffee.com/connectankush)
+
+Your support and feedback are valuable in maintaining and improving the extension.
+
+![Buy Me a Coffee](img/bmc.png)
+![Buy Me a Coffee QR](img/bmc-qr-code.png)
+
+
+
 ## License
 
 MIT © Prompt Refiner contributors
