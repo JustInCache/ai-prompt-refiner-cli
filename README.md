@@ -136,20 +136,10 @@ We love docs and creative prompt presets—send them!
 
 ## Support the Project
 
-If this repo saved you time or sparked an idea, consider buying me a coffee to keep the prompts flowing. ❤️ 
-
-<a href="https://buymeacoffee.com/connectankush">
-  <img src="img/bmc.png" alt="Buy Me a Coffee" width="150">
-</a>
-
+If this repo saved you time or sparked an idea, consider buying me a coffee to keep the prompts flowing. ❤️  
 [https://buymeacoffee.com/connectankush](https://buymeacoffee.com/connectankush)
 
-Your support and feedback are valuable in maintaining and improving the extension.
-
-<a href="https://buymeacoffee.com/connectankush">
-  <img src="img/bmc-qr-code.png" alt="Buy Me a Coffee QR" width="150">
-</a>
-
+![Buy Me a Coffee QR](img/bmc-qr-code.png)
 
 ## License
 
